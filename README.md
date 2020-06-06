@@ -1,5 +1,5 @@
 # leetcode-solutions
-![](https://img.shields.io/badge/Language-Python-blue)
+![](https://img.shields.io/badge/Language-Python%20%2F%20Java-blue)
 
 Solutions for leetcode problems:
 
