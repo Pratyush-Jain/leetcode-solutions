@@ -8,3 +8,5 @@ Solutions for leetcode problems:
 |11  | [ Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [Python](python/11-container-with-most-water.py)| Medium|
 |13  |[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python](13-roman-to-integer.py)|Easy|
 |21  |[Merge Two Sorted List](https://leetcode.com/problems/merge-two-sorted-lists/)|[Java](java/merge-two-sorted-lists.java)|Easy|
+|41  |[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Python](ptython/first-missing-positive.py)| Hard 
+|402 |[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[Python](python/Remove-k-digits.py)|Medium|
