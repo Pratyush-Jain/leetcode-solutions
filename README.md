@@ -9,5 +9,5 @@ Solutions for leetcode problems:
 |13  |[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python](python/roman-to-integer.py)|Easy|
 |21  |[Merge Two Sorted List](https://leetcode.com/problems/merge-two-sorted-lists/)|[Java](java/merge-two-sorted-lists.java)|Easy|
 |41  |[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Python](python/first-missing-positive.py)| Hard 
-|402 |[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[Python](python/remove-k-digits.py)|Medium|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/)|[Python](python/dungeon-game.py),[Java](java/dungeon-game.java)|Hard
+|402 |[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[Python](python/remove-k-digits.py)|Medium|
