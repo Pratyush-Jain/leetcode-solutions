@@ -11,6 +11,7 @@ Solutions for leetcode problems:
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](python/search-insert-position.py)|Easy|
 |41  |[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Python](python/first-missing-positive.py)| Hard 
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Python](python/unique-paths.ipynb)|Medium|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Python](python/climbing-stairs.py)|Easy|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](python/sort-colors.py)|Medium|
 |129|[Sum Root To Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Python](python/sum-root-to-leaf-numbers.py)|Medium|
 |137|[Single Number Ii](https://leetcode.com/problems/single-number-ii/)|[Python](python/single-number-ii.py)|Medium|
