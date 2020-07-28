@@ -34,7 +34,7 @@ Solutions for leetcode problems:
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[Python](python/divisor-game.py)|Easy|
 |1035|[Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)|[Python](python/uncrossed-lines.py)|Medium|
 |1227|[Count Square Submatrices With All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[Python](python/count-square-submatrices-with-all-ones.py)|Medium|
-|1287|[Elements Appearing More Than 25 In Sorted Array](https://leetcode.com/problems/elements-appearing-more-than-25-in-sorted-array/)|[Python](python/elements-appearing-more-than-25-in-sorted-array.py)|Easy|
+|1287|[Element Appearing More Than 25 In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)|[Python](python/element-appearing-more-than-25-in-sorted-array.py)|Easy|
 |1290|[Convert Binary Number In A Linked List To Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Python](python/convert-binary-number-in-a-linked-list-to-integer.py)|Easy|
 |1344|[Angle Between Hands Of A Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/)|[Python](python/angle-between-hands-of-a-clock.py)|Medium|
 |1385|[Find The Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)|[Python](python/find-the-distance-value-between-two-arrays.py)|Easy|
