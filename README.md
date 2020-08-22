@@ -44,4 +44,29 @@ Solutions for leetcode problems:
 |1496|[Path Crossing](https://leetcode.com/problems/path-crossing/)|[Python](python/path-crossing.py)|Easy|
 |1497|[Check If Array Pairs Are Divisible By K](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/)|[Python](python/check-if-array-pairs-are-divisible-by-k.py)|Medium|
 |1512|[Number Of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Python](python/number-of-good-pairs.py)|Easy|
+,
+,,
+,
+,
+|258|[Add Digits](https://leetcode.com/problems/add-digits/)|[Python](python/add-digits.py)|easy|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](python/reverse-linked-list.py)|Easy|
+|160|[Intersection Of Two Linked List](https://leetcode.com/problems/intersection-of-two-linked-list/)|[Python](python/intersection-of-two-linked-list.py)|Easy|
+|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Python](python/excel-sheet-column-number.py)|Easy|
+|520|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[Python](python/detect-capital.py)|Easy|
+|876|[Middle Of Linked List](https://leetcode.com/problems/middle-of-linked-list/)|[Python](python/middle-of-linked-list.py)|Easy|
+|442|[Find All Duplicates In An Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Python](python/find-all-duplicates-in-an-array.py)|Medium|
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Python](python/remove-linked-list-elements.py)|Easy|
+|119|[Pascals Triangle Ii](https://leetcode.com/problems/pascals-triangle-ii/)|[Python](python/pascals-triangle-ii.py)|Easy|
+|258|[Add Digits](https://leetcode.com/problems/add-digits/)|[Python](python/add-digits.py)|easy|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](python/reverse-linked-list.py)|Easy|
+|160|[Intersection Of Two Linked List](https://leetcode.com/problems/intersection-of-two-linked-list/)|[Python](python/intersection-of-two-linked-list.py)|Easy|
+|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Python](python/excel-sheet-column-number.py)|Easy|
+|520|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[Python](python/detect-capital.py)|Easy|
+|876|[Middle Of Linked List](https://leetcode.com/problems/middle-of-linked-list/)|[Python](python/middle-of-linked-list.py)|Easy|
+|442|[Find All Duplicates In An Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Python](python/find-all-duplicates-in-an-array.py)|Medium|
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Python](python/remove-linked-list-elements.py)|Easy|
+|119|[Pascals Triangle Ii](https://leetcode.com/problems/pascals-triangle-ii/)|[Python](python/pascals-triangle-ii.py)|Easy|
+|409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Python](python/longest-palindrome.py)|Easy|
+|237|[Delete Node In A Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Python](python/delete-node-in-a-linked-list.py)|Easy|
+|994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Python](python/rotting-oranges.py)|Medium|
 
