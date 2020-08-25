@@ -31,7 +31,6 @@ Solutions for leetcode problems:
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](python/fibonacci-number.ipynb)|Easy|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[Python](python/self-dividing-numbers.py)|Easy|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Python](python/min-cost-climbing-stairs.py)|Easy|
-
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[Python](python/divisor-game.py)|Easy|
 |1035|[Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)|[Python](python/uncrossed-lines.py)|Medium|
 |1227|[Count Square Submatrices With All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[Python](python/count-square-submatrices-with-all-ones.py)|Medium|
@@ -45,10 +44,7 @@ Solutions for leetcode problems:
 |1496|[Path Crossing](https://leetcode.com/problems/path-crossing/)|[Python](python/path-crossing.py)|Easy|
 |1497|[Check If Array Pairs Are Divisible By K](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/)|[Python](python/check-if-array-pairs-are-divisible-by-k.py)|Medium|
 |1512|[Number Of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Python](python/number-of-good-pairs.py)|Easy|
-,
-,,
-,
-,
+
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[Python](python/add-digits.py)|easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](python/reverse-linked-list.py)|Easy|
 |160|[Intersection Of Two Linked List](https://leetcode.com/problems/intersection-of-two-linked-list/)|[Python](python/intersection-of-two-linked-list.py)|Easy|
