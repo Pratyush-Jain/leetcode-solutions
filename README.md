@@ -16,21 +16,31 @@ Solutions for leetcode problems:
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](python/sort-colors.py)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[Python](python/subsets.py)|Medium|
 |107|[Binary Tree Level Order Traversal Ii](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Python](python/binary-tree-level-order-traversal-ii.py)|Easy|
+|119|[Pascals Triangle Ii](https://leetcode.com/problems/pascals-triangle-ii/)|[Python](python/pascals-triangle-ii.py)|Easy|
 |121|[Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](python/best-time-to-buy-and-sell-stock.py)|Easy|
 |129|[Sum Root To Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Python](python/sum-root-to-leaf-numbers.py)|Medium|
 |137|[Single Number Ii](https://leetcode.com/problems/single-number-ii/)|[Python](python/single-number-ii.py)|Medium|
+|160|[Intersection Of Two Linked List](https://leetcode.com/problems/intersection-of-two-linked-list/)|[Python](python/intersection-of-two-linked-list.py)|Easy|
+|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Python](python/excel-sheet-column-number.py)|Easy|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/)|[Python](python/dungeon-game.py),[Java](java/dungeon-game.java)|Hard
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[Python](python/house-robber.py)|Easy|
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Python](python/remove-linked-list-elements.py)|Easy|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](python/reverse-linked-list.py)|Easy|
+|237|[Delete Node In A Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Python](python/delete-node-in-a-linked-list.py)|Easy|
+|258|[Add Digits](https://leetcode.com/problems/add-digits/)|[Python](python/add-digits.py)|easy|
 |287|[Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Python](python/find-the-duplicate-number.py)|Medium|
 |303|[Range Sum Query Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Python](python/range-sum-query-immutable.py)|Easy|
 |374|[Guess Number Higher Or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[Python](python/guess-number-higher-or-lower.py)|Easy|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](python/is-subsequence.py)|Easy|
 |402 |[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[Python](python/remove-k-digits.py)|Medium|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Python](python/arranging-coins.py)|Easy|
+|442|[Find All Duplicates In An Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Python](python/find-all-duplicates-in-an-array.py)|Medium|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Python](python/max-consecutive-ones.py)|Easy|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](python/fibonacci-number.ipynb)|Easy|
+|520|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[Python](python/detect-capital.py)|Easy|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[Python](python/self-dividing-numbers.py)|Easy|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Python](python/min-cost-climbing-stairs.py)|Easy|
+|876|[Middle Of Linked List](https://leetcode.com/problems/middle-of-linked-list/)|[Python](python/middle-of-linked-list.py)|Easy|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Python](python/rotting-oranges.py)|Medium|
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[Python](python/divisor-game.py)|Easy|
 |1035|[Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)|[Python](python/uncrossed-lines.py)|Medium|
@@ -45,15 +55,11 @@ Solutions for leetcode problems:
 |1496|[Path Crossing](https://leetcode.com/problems/path-crossing/)|[Python](python/path-crossing.py)|Easy|
 |1497|[Check If Array Pairs Are Divisible By K](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/)|[Python](python/check-if-array-pairs-are-divisible-by-k.py)|Medium|
 |1512|[Number Of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Python](python/number-of-good-pairs.py)|Easy|
-|258|[Add Digits](https://leetcode.com/problems/add-digits/)|[Python](python/add-digits.py)|easy|
-|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](python/reverse-linked-list.py)|Easy|
-|160|[Intersection Of Two Linked List](https://leetcode.com/problems/intersection-of-two-linked-list/)|[Python](python/intersection-of-two-linked-list.py)|Easy|
-|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Python](python/excel-sheet-column-number.py)|Easy|
-|520|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[Python](python/detect-capital.py)|Easy|
-|876|[Middle Of Linked List](https://leetcode.com/problems/middle-of-linked-list/)|[Python](python/middle-of-linked-list.py)|Easy|
-|442|[Find All Duplicates In An Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Python](python/find-all-duplicates-in-an-array.py)|Medium|
-|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Python](python/remove-linked-list-elements.py)|Easy|
-|119|[Pascals Triangle Ii](https://leetcode.com/problems/pascals-triangle-ii/)|[Python](python/pascals-triangle-ii.py)|Easy| 
-|237|[Delete Node In A Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Python](python/delete-node-in-a-linked-list.py)|Easy|
-|994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Python](python/rotting-oranges.py)|Medium|
+
+
+
+
+ 
+
+
 
