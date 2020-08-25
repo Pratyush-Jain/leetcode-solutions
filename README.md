@@ -31,6 +31,7 @@ Solutions for leetcode problems:
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](python/fibonacci-number.ipynb)|Easy|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[Python](python/self-dividing-numbers.py)|Easy|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Python](python/min-cost-climbing-stairs.py)|Easy|
+
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[Python](python/divisor-game.py)|Easy|
 |1035|[Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)|[Python](python/uncrossed-lines.py)|Medium|
 |1227|[Count Square Submatrices With All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[Python](python/count-square-submatrices-with-all-ones.py)|Medium|
@@ -56,17 +57,7 @@ Solutions for leetcode problems:
 |876|[Middle Of Linked List](https://leetcode.com/problems/middle-of-linked-list/)|[Python](python/middle-of-linked-list.py)|Easy|
 |442|[Find All Duplicates In An Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Python](python/find-all-duplicates-in-an-array.py)|Medium|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Python](python/remove-linked-list-elements.py)|Easy|
-|119|[Pascals Triangle Ii](https://leetcode.com/problems/pascals-triangle-ii/)|[Python](python/pascals-triangle-ii.py)|Easy|
-|258|[Add Digits](https://leetcode.com/problems/add-digits/)|[Python](python/add-digits.py)|easy|
-|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](python/reverse-linked-list.py)|Easy|
-|160|[Intersection Of Two Linked List](https://leetcode.com/problems/intersection-of-two-linked-list/)|[Python](python/intersection-of-two-linked-list.py)|Easy|
-|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Python](python/excel-sheet-column-number.py)|Easy|
-|520|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[Python](python/detect-capital.py)|Easy|
-|876|[Middle Of Linked List](https://leetcode.com/problems/middle-of-linked-list/)|[Python](python/middle-of-linked-list.py)|Easy|
-|442|[Find All Duplicates In An Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Python](python/find-all-duplicates-in-an-array.py)|Medium|
-|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Python](python/remove-linked-list-elements.py)|Easy|
-|119|[Pascals Triangle Ii](https://leetcode.com/problems/pascals-triangle-ii/)|[Python](python/pascals-triangle-ii.py)|Easy|
-|409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Python](python/longest-palindrome.py)|Easy|
+|119|[Pascals Triangle Ii](https://leetcode.com/problems/pascals-triangle-ii/)|[Python](python/pascals-triangle-ii.py)|Easy| 
 |237|[Delete Node In A Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Python](python/delete-node-in-a-linked-list.py)|Easy|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Python](python/rotting-oranges.py)|Medium|
 
